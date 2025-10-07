@@ -10,7 +10,6 @@ Throughout the course, I explored key concepts such as cryptography, network def
 This project analyzes a real-world unauthenticated remote code execution vulnerability exploited in the wild, demonstrating how attackers chained flaws in Ivanti Connect Secure appliances to gain persistent access and how defenders can detect and mitigate such attacks.
 
 📺 **Video Presentation (Unlisted on YouTube):** [Watch on YouTube](https://youtu.be/WW6_NwY1rwU)
-🧾 **Slides:** [Ivanti_Connect_Secure_Presentation.pdf](Assignments/Final Project/Ivanti.pdf)
 
 ## 💬 Course Feedback
 
